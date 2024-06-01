@@ -1,0 +1,242 @@
+C:\Users\MSİ\Desktop\KUTUPHANE OTOMASYON PROJE\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe.config
+C:\Users\MSİ\Desktop\KUTUPHANE OTOMASYON PROJE\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+C:\Users\MSİ\Desktop\KUTUPHANE OTOMASYON PROJE\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+C:\Users\MSİ\Desktop\KUTUPHANE OTOMASYON PROJE\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\KUTUPHANE OTOMASYON PROJE\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+C:\Users\MSİ\Desktop\KUTUPHANE OTOMASYON PROJE\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.cache
+C:\Users\MSİ\Desktop\KUTUPHANE OTOMASYON PROJE\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\KUTUPHANE OTOMASYON PROJE\Kutuphane\Kutuphane\obj\Debug\Kutuphane.exe
+C:\Users\MSİ\Desktop\KUTUPHANE OTOMASYON PROJE\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
+C:\Users\MSİ\Desktop\KUTUPHANE OTOMASYON PROJE\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.Anasayfa.resources
+C:\Users\MSİ\Desktop\KUTUPHANE OTOMASYON PROJE\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.KitapTuru.resources
+C:\Users\MSİ\Desktop\KUTUPHANE OTOMASYON PROJE\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.EmanetKitaplar.resources
+C:\Users\MSİ\Desktop\KUTUPHANE OTOMASYON PROJE\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.KitapEkle.resources
+C:\Users\MSİ\Desktop\KUTUPHANE OTOMASYON PROJE\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.KitapListeleme.resources
+C:\Users\MSİ\Desktop\KUTUPHANE OTOMASYON PROJE\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.FormGiris.resources
+C:\Users\MSİ\Desktop\KUTUPHANE OTOMASYON PROJE\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.UyeEkle.resources
+C:\Users\MSİ\Desktop\KUTUPHANE OTOMASYON PROJE\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.UyeListeleme.resources
+C:\Users\MSİ\Desktop\Buse Çil 4.Hafta\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe.config
+C:\Users\MSİ\Desktop\Buse Çil 4.Hafta\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+C:\Users\MSİ\Desktop\Buse Çil 4.Hafta\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+C:\Users\MSİ\Desktop\Buse Çil 4.Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\Buse Çil 4.Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.Anasayfa.resources
+C:\Users\MSİ\Desktop\Buse Çil 4.Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.EmanetKitaplar.resources
+C:\Users\MSİ\Desktop\Buse Çil 4.Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.FormGiris.resources
+C:\Users\MSİ\Desktop\Buse Çil 4.Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.KitapEkle.resources
+C:\Users\MSİ\Desktop\Buse Çil 4.Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.KitapListeleme.resources
+C:\Users\MSİ\Desktop\Buse Çil 4.Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.KitapTuru.resources
+C:\Users\MSİ\Desktop\Buse Çil 4.Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.UyeEkle.resources
+C:\Users\MSİ\Desktop\Buse Çil 4.Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.UyeListeleme.resources
+C:\Users\MSİ\Desktop\Buse Çil 4.Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+C:\Users\MSİ\Desktop\Buse Çil 4.Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.cache
+C:\Users\MSİ\Desktop\Buse Çil 4.Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\Buse Çil 4.Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.exe
+C:\Users\MSİ\Desktop\Buse Çil 4.Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 5. Hafta\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe.config
+C:\Users\MSİ\Desktop\Buse Çil Proje 5. Hafta\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+C:\Users\MSİ\Desktop\Buse Çil Proje 5. Hafta\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 5. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 5. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.Anasayfa.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 5. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.EmanetKitaplar.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 5. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.FormGiris.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 5. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.KitapTuru.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 5. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.UyeEkle.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 5. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 5. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 5. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 5. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.exe
+C:\Users\MSİ\Desktop\Buse Çil Proje 5. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 5. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.KitapIslemleri.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 5. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.YazarSayfası.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 7. Hafta\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe.config
+C:\Users\MSİ\Desktop\Buse Çil Proje 7. Hafta\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+C:\Users\MSİ\Desktop\Buse Çil Proje 7. Hafta\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 7. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 7. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.Anasayfa.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 7. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.EmanetKitaplar.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 7. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.FormGiris.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 7. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.KitapIslemleri.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 7. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.KitapTuru.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 7. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.UyeEkle.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 7. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.YazarSayfası.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 7. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 7. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 7. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 7. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.exe
+C:\Users\MSİ\Desktop\Buse Çil Proje 7. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 7. Hafta\Kutuphane\Kutuphane\bin\Debug\EntityFramework.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 7. Hafta\Kutuphane\Kutuphane\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 7. Hafta\Kutuphane\Kutuphane\bin\Debug\EntityFramework.xml
+C:\Users\MSİ\Desktop\Buse Çil Proje 7. Hafta\Kutuphane\Kutuphane\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSİ\Desktop\Buse Çil Proje 7. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.Up2Date
+C:\Users\MSİ\Desktop\Buse Çil Proje 8. Hafta\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe.config
+C:\Users\MSİ\Desktop\Buse Çil Proje 8. Hafta\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+C:\Users\MSİ\Desktop\Buse Çil Proje 8. Hafta\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 8. Hafta\Kutuphane\Kutuphane\bin\Debug\EntityFramework.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 8. Hafta\Kutuphane\Kutuphane\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 8. Hafta\Kutuphane\Kutuphane\bin\Debug\EntityFramework.xml
+C:\Users\MSİ\Desktop\Buse Çil Proje 8. Hafta\Kutuphane\Kutuphane\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSİ\Desktop\Buse Çil Proje 8. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 8. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.Anasayfa.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 8. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.EmanetKitaplar.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 8. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.FormGiris.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 8. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.KitapIslemleri.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 8. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.UyeEkle.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 8. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.YazarSayfası.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 8. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 8. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 8. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 8. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.Up2Date
+C:\Users\MSİ\Desktop\Buse Çil Proje 8. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.exe
+C:\Users\MSİ\Desktop\Buse Çil Proje 8. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 8. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.KitapTuruSayfasi.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe.config
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Kutuphane\bin\Debug\EntityFramework.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Kutuphane\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Kutuphane\bin\Debug\EntityFramework.xml
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Kutuphane\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.Anasayfa.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.EmanetKitaplar.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.FormGiris.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.KitapIslemleri.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.KitapTuruSayfasi.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.UyeEkle.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.YazarSayfası.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.Up2Date
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.exe
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Kutuphane\bin\Debug\VeriBaglantisi.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Kutuphane\bin\Debug\Varliklar.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Kutuphane\bin\Debug\VeriBaglantisi.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Kutuphane\bin\Debug\VeriBaglantisi.dll.config
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Kutuphane\bin\Debug\Varliklar.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Kutuphane\bin\Debug\InterFaceler.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Kutuphane\bin\Debug\InterFaceler.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Kutuphane\bin\Debug\Islemler.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Kutuphane\bin\Debug\Islemler.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe.config
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\EntityFramework.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\Islemler.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\Varliklar.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\VeriBaglantisi.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\InterFaceler.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\Islemler.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\Varliklar.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\VeriBaglantisi.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\VeriBaglantisi.dll.config
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\EntityFramework.xml
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\InterFaceler.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.Anasayfa.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.EmanetKitaplar.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.FormGiris.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.KitapIslemleri.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.KitapTuruSayfasi.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.UyeEkle.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.YazarSayfası.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.Up2Date
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.exe
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe.config
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\EntityFramework.dll
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\EntityFramework.SqlServer.dll
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\Islemler.dll
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\Varliklar.dll
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\VeriBaglantisi.dll
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\InterFaceler.dll
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\Islemler.pdb
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\Varliklar.pdb
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\VeriBaglantisi.pdb
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\VeriBaglantisi.dll.config
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\EntityFramework.xml
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\EntityFramework.SqlServer.xml
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\bin\Debug\InterFaceler.pdb
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.AssemblyReference.cache
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.Anasayfa.resources
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.EmanetKitaplar.resources
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.FormGiris.resources
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.KitapIslemleri.resources
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.KitapTuruSayfasi.resources
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.UyeEkle.resources
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.YazarSayfası.resources
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.cache
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CopyComplete
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.exe
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe.config
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Kutuphane\bin\Debug\EntityFramework.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Kutuphane\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Kutuphane\bin\Debug\Islemler.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Kutuphane\bin\Debug\Varliklar.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Kutuphane\bin\Debug\VeriBaglantisi.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Kutuphane\bin\Debug\InterFaceler.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Kutuphane\bin\Debug\Islemler.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Kutuphane\bin\Debug\Varliklar.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Kutuphane\bin\Debug\VeriBaglantisi.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Kutuphane\bin\Debug\VeriBaglantisi.dll.config
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Kutuphane\bin\Debug\EntityFramework.xml
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Kutuphane\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Kutuphane\bin\Debug\InterFaceler.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.Anasayfa.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.EmanetKitaplar.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.FormGiris.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.KitapIslemleri.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.KitapTuruSayfasi.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.UyeEkle.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.YazarSayfası.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.Up2Date
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Kutuphane\obj\Debug\Kutuphane.exe
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe.config
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Kutuphane\bin\Debug\EntityFramework.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Kutuphane\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Kutuphane\bin\Debug\Islemler.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Kutuphane\bin\Debug\Varliklar.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Kutuphane\bin\Debug\VeriBaglantisi.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Kutuphane\bin\Debug\InterFaceler.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Kutuphane\bin\Debug\Islemler.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Kutuphane\bin\Debug\Varliklar.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Kutuphane\bin\Debug\VeriBaglantisi.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Kutuphane\bin\Debug\VeriBaglantisi.dll.config
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Kutuphane\bin\Debug\EntityFramework.xml
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Kutuphane\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Kutuphane\bin\Debug\InterFaceler.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.Anasayfa.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.EmanetKitaplar.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.FormGiris.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.KitapIslemleri.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.KitapTuruSayfasi.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.UyeEkle.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Formlar.YazarSayfası.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.Up2Date
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Kutuphane\obj\Debug\Kutuphane.exe
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb

@@ -1,0 +1,72 @@
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\VeriBaglantisi.dll.config
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\VeriBaglantisi.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\VeriBaglantisi.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\EntityFramework.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\Varliklar.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\Varliklar.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\EntityFramework.xml
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\VeriBaglantisi\obj\Debug\VeriBaglantisi.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\VeriBaglantisi\obj\Debug\VeriBaglantisi.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\VeriBaglantisi\obj\Debug\VeriBagl.9A778782.Up2Date
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\VeriBaglantisi\obj\Debug\VeriBaglantisi.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\VeriBaglantisi\obj\Debug\VeriBaglantisi.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\InterFaceler.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\InterFaceler.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\VeriBaglantisi\obj\Debug\VeriBaglantisi.Migrations.INIT.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\VeriBaglantisi\obj\Debug\VeriBaglantisi.csproj.GenerateResource.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\VeriBaglantisi.dll.config
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\VeriBaglantisi.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\VeriBaglantisi.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\EntityFramework.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\InterFaceler.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\Varliklar.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\InterFaceler.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\Varliklar.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\EntityFramework.xml
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\obj\Debug\VeriBaglantisi.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\obj\Debug\VeriBaglantisi.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\obj\Debug\VeriBagl.9A778782.Up2Date
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\obj\Debug\VeriBaglantisi.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\obj\Debug\VeriBaglantisi.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\obj\Debug\VeriBaglantisi.Migrations.init.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\obj\Debug\VeriBaglantisi.csproj.GenerateResource.cache
+E:\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\VeriBaglantisi.dll.config
+E:\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\VeriBaglantisi.dll
+E:\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\VeriBaglantisi.pdb
+E:\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\EntityFramework.dll
+E:\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\EntityFramework.SqlServer.dll
+E:\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\InterFaceler.dll
+E:\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\Varliklar.dll
+E:\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\InterFaceler.pdb
+E:\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\Varliklar.pdb
+E:\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\EntityFramework.xml
+E:\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\bin\Debug\EntityFramework.SqlServer.xml
+E:\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\obj\Debug\VeriBaglantisi.csproj.AssemblyReference.cache
+E:\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\obj\Debug\VeriBaglantisi.Migrations.init.resources
+E:\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\obj\Debug\VeriBaglantisi.csproj.GenerateResource.cache
+E:\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\obj\Debug\VeriBaglantisi.csproj.CoreCompileInputs.cache
+E:\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\obj\Debug\VeriBagl.9A778782.Up2Date
+E:\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\obj\Debug\VeriBaglantisi.dll
+E:\Buse Çil Proje 10. Hafta\Kutuphane\VeriBaglantisi\obj\Debug\VeriBaglantisi.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\VeriBaglantisi\bin\Debug\VeriBaglantisi.dll.config
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\VeriBaglantisi\bin\Debug\VeriBaglantisi.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\VeriBaglantisi\bin\Debug\VeriBaglantisi.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\VeriBaglantisi\bin\Debug\EntityFramework.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\VeriBaglantisi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\VeriBaglantisi\bin\Debug\InterFaceler.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\VeriBaglantisi\bin\Debug\Varliklar.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\VeriBaglantisi\bin\Debug\InterFaceler.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\VeriBaglantisi\bin\Debug\Varliklar.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\VeriBaglantisi\bin\Debug\EntityFramework.xml
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\VeriBaglantisi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\VeriBaglantisi\obj\Debug\VeriBaglantisi.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\VeriBaglantisi\obj\Debug\VeriBaglantisi.Migrations.init.resources
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\VeriBaglantisi\obj\Debug\VeriBaglantisi.csproj.GenerateResource.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\VeriBaglantisi\obj\Debug\VeriBaglantisi.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\VeriBaglantisi\obj\Debug\VeriBagl.9A778782.Up2Date
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\VeriBaglantisi\obj\Debug\VeriBaglantisi.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\VeriBaglantisi\obj\Debug\VeriBaglantisi.pdb

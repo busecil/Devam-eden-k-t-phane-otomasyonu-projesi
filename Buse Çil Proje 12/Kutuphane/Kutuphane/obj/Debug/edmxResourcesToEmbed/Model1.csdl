@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KutuphaneModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Bolumler">
+    <Key>
+      <PropertyRef Name="BolumKodu" />
+    </Key>
+    <Property Name="BolumKodu" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BolumAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Uye" Relationship="Self.FK_Ogrenci_Bilgi_Bolumler" FromRole="Bolumler" ToRole="Uye" />
+  </EntityType>
+  <EntityType Name="EmanetKitaplar">
+    <Key>
+      <PropertyRef Name="EmanetID" />
+    </Key>
+    <Property Name="EmanetID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UyeID" Type="Int32" Nullable="false" />
+    <Property Name="KitapID" Type="Int32" Nullable="false" />
+    <Property Name="AlimTarihi" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="TeslimTarihi" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="GorevliID" Type="Int32" Nullable="false" />
+    <Property Name="TeslimEdildiMi" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Gorevli" Relationship="Self.FK_Emanet_Tablosu_Alinan_Gorevli" FromRole="EmanetKitaplar" ToRole="Gorevli" />
+    <NavigationProperty Name="Kitaplar" Relationship="Self.FK_Emanet_Tablosu_Kitaplar" FromRole="EmanetKitaplar" ToRole="Kitaplar" />
+    <NavigationProperty Name="Uye" Relationship="Self.FK_Emanet_Tablosu_Ogrenci_Bilgi" FromRole="EmanetKitaplar" ToRole="Uye" />
+  </EntityType>
+  <EntityType Name="Gorevli">
+    <Key>
+      <PropertyRef Name="GorevliID" />
+    </Key>
+    <Property Name="GorevliID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="GorevliAdSoyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="EmanetKitaplar" Relationship="Self.FK_Emanet_Tablosu_Alinan_Gorevli" FromRole="Gorevli" ToRole="EmanetKitaplar" />
+  </EntityType>
+  <EntityType Name="Kitaplar">
+    <Key>
+      <PropertyRef Name="KitapID" />
+    </Key>
+    <Property Name="KitapID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KitapAdi" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="KitapTuruID" Type="Int32" />
+    <Property Name="YazarID" Type="Int32" />
+    <Property Name="YayinEvi" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="SayfaSayisi" Type="Int32" Nullable="false" />
+    <Property Name="KitapAciklamalari" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="BarkodNo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="KayitTarihi" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="EmanetKitaplar" Relationship="Self.FK_Emanet_Tablosu_Kitaplar" FromRole="Kitaplar" ToRole="EmanetKitaplar" />
+    <NavigationProperty Name="KitapTuru" Relationship="Self.FK_Kitaplar_Kitap_Turu" FromRole="Kitaplar" ToRole="KitapTuru" />
+    <NavigationProperty Name="Yazar" Relationship="Self.FK_Kitaplar_Yazar" FromRole="Kitaplar" ToRole="Yazar" />
+  </EntityType>
+  <EntityType Name="KitapTuru">
+    <Key>
+      <PropertyRef Name="KitapTuruID" />
+    </Key>
+    <Property Name="KitapTuruID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KitapTuruAdi" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Kitaplar" Relationship="Self.FK_Kitaplar_Kitap_Turu" FromRole="KitapTuru" ToRole="Kitaplar" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Uye">
+    <Key>
+      <PropertyRef Name="UyeID" />
+    </Key>
+    <Property Name="UyeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UyeAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="UyeSoyadi" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="OkulNumarasi" Type="Int32" Nullable="false" />
+    <Property Name="BolumKodu" Type="Int32" Nullable="false" />
+    <Property Name="Sinif" Type="Int32" Nullable="false" />
+    <Property Name="EMail" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="TelefonNo" Type="String" MaxLength="11" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Resim" Type="Binary" MaxLength="Max" FixedLength="false" Nullable="false" />
+    <NavigationProperty Name="Bolumler" Relationship="Self.FK_Ogrenci_Bilgi_Bolumler" FromRole="Uye" ToRole="Bolumler" />
+    <NavigationProperty Name="EmanetKitaplar" Relationship="Self.FK_Emanet_Tablosu_Ogrenci_Bilgi" FromRole="Uye" ToRole="EmanetKitaplar" />
+  </EntityType>
+  <EntityType Name="Yazar">
+    <Key>
+      <PropertyRef Name="YazarID" />
+    </Key>
+    <Property Name="YazarID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="YazarAdSoyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Kitaplar" Relationship="Self.FK_Kitaplar_Yazar" FromRole="Yazar" ToRole="Kitaplar" />
+  </EntityType>
+  <Association Name="FK_Ogrenci_Bilgi_Bolumler">
+    <End Role="Bolumler" Type="Self.Bolumler" Multiplicity="1" />
+    <End Role="Uye" Type="Self.Uye" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Bolumler">
+        <PropertyRef Name="BolumKodu" />
+      </Principal>
+      <Dependent Role="Uye">
+        <PropertyRef Name="BolumKodu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Emanet_Tablosu_Alinan_Gorevli">
+    <End Role="Gorevli" Type="Self.Gorevli" Multiplicity="1" />
+    <End Role="EmanetKitaplar" Type="Self.EmanetKitaplar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Gorevli">
+        <PropertyRef Name="GorevliID" />
+      </Principal>
+      <Dependent Role="EmanetKitaplar">
+        <PropertyRef Name="GorevliID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Emanet_Tablosu_Kitaplar">
+    <End Role="Kitaplar" Type="Self.Kitaplar" Multiplicity="1" />
+    <End Role="EmanetKitaplar" Type="Self.EmanetKitaplar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kitaplar">
+        <PropertyRef Name="KitapID" />
+      </Principal>
+      <Dependent Role="EmanetKitaplar">
+        <PropertyRef Name="KitapID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Emanet_Tablosu_Ogrenci_Bilgi">
+    <End Role="Uye" Type="Self.Uye" Multiplicity="1" />
+    <End Role="EmanetKitaplar" Type="Self.EmanetKitaplar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Uye">
+        <PropertyRef Name="UyeID" />
+      </Principal>
+      <Dependent Role="EmanetKitaplar">
+        <PropertyRef Name="UyeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Kitaplar_Kitap_Turu">
+    <End Role="KitapTuru" Type="Self.KitapTuru" Multiplicity="0..1" />
+    <End Role="Kitaplar" Type="Self.Kitaplar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KitapTuru">
+        <PropertyRef Name="KitapTuruID" />
+      </Principal>
+      <Dependent Role="Kitaplar">
+        <PropertyRef Name="KitapTuruID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Kitaplar_Yazar">
+    <End Role="Yazar" Type="Self.Yazar" Multiplicity="0..1" />
+    <End Role="Kitaplar" Type="Self.Kitaplar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Yazar">
+        <PropertyRef Name="YazarID" />
+      </Principal>
+      <Dependent Role="Kitaplar">
+        <PropertyRef Name="YazarID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="KutuphaneDb" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Bolumler" EntityType="Self.Bolumler" />
+    <EntitySet Name="EmanetKitaplar" EntityType="Self.EmanetKitaplar" />
+    <EntitySet Name="Gorevli" EntityType="Self.Gorevli" />
+    <EntitySet Name="Kitaplar" EntityType="Self.Kitaplar" />
+    <EntitySet Name="KitapTuru" EntityType="Self.KitapTuru" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="Uye" EntityType="Self.Uye" />
+    <EntitySet Name="Yazar" EntityType="Self.Yazar" />
+    <AssociationSet Name="FK_Ogrenci_Bilgi_Bolumler" Association="Self.FK_Ogrenci_Bilgi_Bolumler">
+      <End Role="Bolumler" EntitySet="Bolumler" />
+      <End Role="Uye" EntitySet="Uye" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Emanet_Tablosu_Alinan_Gorevli" Association="Self.FK_Emanet_Tablosu_Alinan_Gorevli">
+      <End Role="Gorevli" EntitySet="Gorevli" />
+      <End Role="EmanetKitaplar" EntitySet="EmanetKitaplar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Emanet_Tablosu_Kitaplar" Association="Self.FK_Emanet_Tablosu_Kitaplar">
+      <End Role="Kitaplar" EntitySet="Kitaplar" />
+      <End Role="EmanetKitaplar" EntitySet="EmanetKitaplar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Emanet_Tablosu_Ogrenci_Bilgi" Association="Self.FK_Emanet_Tablosu_Ogrenci_Bilgi">
+      <End Role="Uye" EntitySet="Uye" />
+      <End Role="EmanetKitaplar" EntitySet="EmanetKitaplar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Kitaplar_Kitap_Turu" Association="Self.FK_Kitaplar_Kitap_Turu">
+      <End Role="KitapTuru" EntitySet="KitapTuru" />
+      <End Role="Kitaplar" EntitySet="Kitaplar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Kitaplar_Yazar" Association="Self.FK_Kitaplar_Yazar">
+      <End Role="Yazar" EntitySet="Yazar" />
+      <End Role="Kitaplar" EntitySet="Kitaplar" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

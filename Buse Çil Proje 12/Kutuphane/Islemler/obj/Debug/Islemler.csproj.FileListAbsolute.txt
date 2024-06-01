@@ -1,0 +1,64 @@
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Islemler\bin\Debug\Islemler.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Islemler\bin\Debug\Islemler.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Islemler\bin\Debug\InterFaceler.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Islemler\bin\Debug\Varliklar.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Islemler\bin\Debug\VeriBaglantisi.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Islemler\bin\Debug\EntityFramework.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Islemler\bin\Debug\InterFaceler.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Islemler\bin\Debug\Varliklar.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Islemler\bin\Debug\VeriBaglantisi.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Islemler\bin\Debug\VeriBaglantisi.dll.config
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Islemler\bin\Debug\EntityFramework.xml
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Islemler\obj\Debug\Islemler.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Islemler\obj\Debug\Islemler.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Islemler\obj\Debug\Islemler.csproj.Up2Date
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Islemler\obj\Debug\Islemler.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Islemler\obj\Debug\Islemler.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\bin\Debug\Islemler.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\bin\Debug\Islemler.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\bin\Debug\InterFaceler.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\bin\Debug\Varliklar.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\bin\Debug\VeriBaglantisi.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\bin\Debug\EntityFramework.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\bin\Debug\InterFaceler.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\bin\Debug\Varliklar.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\bin\Debug\VeriBaglantisi.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\bin\Debug\VeriBaglantisi.dll.config
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\bin\Debug\EntityFramework.xml
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\obj\Debug\Islemler.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\obj\Debug\Islemler.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\obj\Debug\Islemler.csproj.Up2Date
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\obj\Debug\Islemler.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\obj\Debug\Islemler.pdb
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\bin\Debug\Islemler.dll
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\bin\Debug\Islemler.pdb
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\bin\Debug\InterFaceler.dll
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\bin\Debug\Varliklar.dll
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\bin\Debug\VeriBaglantisi.dll
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\bin\Debug\EntityFramework.dll
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\bin\Debug\InterFaceler.pdb
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\bin\Debug\Varliklar.pdb
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\bin\Debug\VeriBaglantisi.pdb
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\bin\Debug\VeriBaglantisi.dll.config
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\bin\Debug\EntityFramework.xml
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\obj\Debug\Islemler.csproj.AssemblyReference.cache
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\obj\Debug\Islemler.csproj.CoreCompileInputs.cache
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\obj\Debug\Islemler.csproj.Up2Date
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\obj\Debug\Islemler.dll
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Islemler\obj\Debug\Islemler.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Islemler\bin\Debug\Islemler.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Islemler\bin\Debug\Islemler.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Islemler\bin\Debug\InterFaceler.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Islemler\bin\Debug\Varliklar.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Islemler\bin\Debug\VeriBaglantisi.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Islemler\bin\Debug\EntityFramework.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Islemler\bin\Debug\InterFaceler.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Islemler\bin\Debug\Varliklar.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Islemler\bin\Debug\VeriBaglantisi.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Islemler\bin\Debug\VeriBaglantisi.dll.config
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Islemler\bin\Debug\EntityFramework.xml
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Islemler\obj\Debug\Islemler.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Islemler\obj\Debug\Islemler.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Islemler\obj\Debug\Islemler.csproj.Up2Date
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Islemler\obj\Debug\Islemler.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Islemler\obj\Debug\Islemler.pdb

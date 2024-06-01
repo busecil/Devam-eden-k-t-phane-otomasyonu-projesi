@@ -1,0 +1,12 @@
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\InterFaceler\bin\Debug\InterFaceler.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\InterFaceler\bin\Debug\InterFaceler.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\InterFaceler\obj\Debug\InterFaceler.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\InterFaceler\obj\Debug\InterFaceler.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\InterFaceler\obj\Debug\InterFaceler.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\InterFaceler\obj\Debug\InterFaceler.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\InterFaceler\bin\Debug\InterFaceler.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\InterFaceler\bin\Debug\InterFaceler.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\InterFaceler\obj\Debug\InterFaceler.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\InterFaceler\obj\Debug\InterFaceler.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\InterFaceler\obj\Debug\InterFaceler.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\InterFaceler\obj\Debug\InterFaceler.pdb

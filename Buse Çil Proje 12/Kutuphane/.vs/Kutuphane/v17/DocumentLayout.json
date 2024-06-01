@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76E54CE8-ECFA-4D15-ACC0-AA347EAC84BB}|Kutuphane\\Kutuphane.csproj|C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\kutuphane\\formlar\\kitapislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E54CE8-ECFA-4D15-ACC0-AA347EAC84BB}|Kutuphane\\Kutuphane.csproj|solutionrelative:kutuphane\\formlar\\kitapislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E54CE8-ECFA-4D15-ACC0-AA347EAC84BB}|Kutuphane\\Kutuphane.csproj|C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\kutuphane\\formlar\\kitapislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76E54CE8-ECFA-4D15-ACC0-AA347EAC84BB}|Kutuphane\\Kutuphane.csproj|solutionrelative:kutuphane\\formlar\\kitapislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D74EBA-62D8-4428-B2C2-1C4819C219BD}|Islemler\\Islemler.csproj|C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\islemler\\kitapislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D74EBA-62D8-4428-B2C2-1C4819C219BD}|Islemler\\Islemler.csproj|solutionrelative:islemler\\kitapislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E54CE8-ECFA-4D15-ACC0-AA347EAC84BB}|Kutuphane\\Kutuphane.csproj|c:\\users\\ms\u0130\\desktop\\buse \u00E7il proje 12\\kutuphane\\kutuphane\\formlar\\kitapturusayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76E54CE8-ECFA-4D15-ACC0-AA347EAC84BB}|Kutuphane\\Kutuphane.csproj|solutionrelative:kutuphane\\formlar\\kitapturusayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7573EEA-E2F3-4F3D-971B-9DB315C1FBC3}|InterFaceler\\InterFaceler.csproj|C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\interfaceler\\vtislemlerii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7573EEA-E2F3-4F3D-971B-9DB315C1FBC3}|InterFaceler\\InterFaceler.csproj|solutionrelative:interfaceler\\vtislemlerii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C07FB82-685E-4D97-BB38-9C7344CC2EBC}|VeriBaglantisi\\VeriBaglantisi.csproj|C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\veribaglantisi\\kutuphanecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C07FB82-685E-4D97-BB38-9C7344CC2EBC}|VeriBaglantisi\\VeriBaglantisi.csproj|solutionrelative:veribaglantisi\\kutuphanecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982B23FB-67C3-4694-9F54-F0CDDBDD507D}|Varliklar\\Varliklar.csproj|C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\varliklar\\yazar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982B23FB-67C3-4694-9F54-F0CDDBDD507D}|Varliklar\\Varliklar.csproj|solutionrelative:varliklar\\yazar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C07FB82-685E-4D97-BB38-9C7344CC2EBC}|VeriBaglantisi\\VeriBaglantisi.csproj|C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\veribaglantisi\\kitapdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C07FB82-685E-4D97-BB38-9C7344CC2EBC}|VeriBaglantisi\\VeriBaglantisi.csproj|solutionrelative:veribaglantisi\\kitapdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E54CE8-ECFA-4D15-ACC0-AA347EAC84BB}|Kutuphane\\Kutuphane.csproj|C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\kutuphane\\formlar\\kitapturusayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E54CE8-ECFA-4D15-ACC0-AA347EAC84BB}|Kutuphane\\Kutuphane.csproj|solutionrelative:kutuphane\\formlar\\kitapturusayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E54CE8-ECFA-4D15-ACC0-AA347EAC84BB}|Kutuphane\\Kutuphane.csproj|C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\kutuphane\\formlar\\yazarsayfas\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E54CE8-ECFA-4D15-ACC0-AA347EAC84BB}|Kutuphane\\Kutuphane.csproj|solutionrelative:kutuphane\\formlar\\yazarsayfas\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D74EBA-62D8-4428-B2C2-1C4819C219BD}|Islemler\\Islemler.csproj|C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\islemler\\kitapturuislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D74EBA-62D8-4428-B2C2-1C4819C219BD}|Islemler\\Islemler.csproj|solutionrelative:islemler\\kitapturuislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E54CE8-ECFA-4D15-ACC0-AA347EAC84BB}|Kutuphane\\Kutuphane.csproj|C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\kutuphane\\formlar\\yazarsayfas\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76E54CE8-ECFA-4D15-ACC0-AA347EAC84BB}|Kutuphane\\Kutuphane.csproj|solutionrelative:kutuphane\\formlar\\yazarsayfas\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E54CE8-ECFA-4D15-ACC0-AA347EAC84BB}|Kutuphane\\Kutuphane.csproj|C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\kutuphane\\formlar\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76E54CE8-ECFA-4D15-ACC0-AA347EAC84BB}|Kutuphane\\Kutuphane.csproj|solutionrelative:kutuphane\\formlar\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982B23FB-67C3-4694-9F54-F0CDDBDD507D}|Varliklar\\Varliklar.csproj|C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\varliklar\\kitapturu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982B23FB-67C3-4694-9F54-F0CDDBDD507D}|Varliklar\\Varliklar.csproj|solutionrelative:varliklar\\kitapturu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982B23FB-67C3-4694-9F54-F0CDDBDD507D}|Varliklar\\Varliklar.csproj|C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\varliklar\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982B23FB-67C3-4694-9F54-F0CDDBDD507D}|Varliklar\\Varliklar.csproj|solutionrelative:varliklar\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C07FB82-685E-4D97-BB38-9C7344CC2EBC}|VeriBaglantisi\\VeriBaglantisi.csproj|C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\veribaglantisi\\yazardal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C07FB82-685E-4D97-BB38-9C7344CC2EBC}|VeriBaglantisi\\VeriBaglantisi.csproj|solutionrelative:veribaglantisi\\yazardal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "YazarDAL.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\VeriBaglantisi\\YazarDAL.cs",
+              "RelativeDocumentMoniker": "VeriBaglantisi\\YazarDAL.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\VeriBaglantisi\\YazarDAL.cs",
+              "RelativeToolTip": "VeriBaglantisi\\YazarDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:49:19.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KitapIslemleri.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\Islemler\\KitapIslemleri.cs",
+              "RelativeDocumentMoniker": "Islemler\\KitapIslemleri.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\Islemler\\KitapIslemleri.cs",
+              "RelativeToolTip": "Islemler\\KitapIslemleri.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:56:18.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VtIslemleriI.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\InterFaceler\\VtIslemleriI.cs",
+              "RelativeDocumentMoniker": "InterFaceler\\VtIslemleriI.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\InterFaceler\\VtIslemleriI.cs",
+              "RelativeToolTip": "InterFaceler\\VtIslemleriI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:56:12.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KutuphaneContext.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\VeriBaglantisi\\KutuphaneContext.cs",
+              "RelativeDocumentMoniker": "VeriBaglantisi\\KutuphaneContext.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\VeriBaglantisi\\KutuphaneContext.cs",
+              "RelativeToolTip": "VeriBaglantisi\\KutuphaneContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:55:54.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KitapDAL.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\VeriBaglantisi\\KitapDAL.cs",
+              "RelativeDocumentMoniker": "VeriBaglantisi\\KitapDAL.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\VeriBaglantisi\\KitapDAL.cs",
+              "RelativeToolTip": "VeriBaglantisi\\KitapDAL.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:55:45.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Yazar.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\Varliklar\\Yazar.cs",
+              "RelativeDocumentMoniker": "Varliklar\\Yazar.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\Varliklar\\Yazar.cs",
+              "RelativeToolTip": "Varliklar\\Yazar.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:54:23.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KitapTuru.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\Varliklar\\KitapTuru.cs",
+              "RelativeDocumentMoniker": "Varliklar\\KitapTuru.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\Varliklar\\KitapTuru.cs",
+              "RelativeToolTip": "Varliklar\\KitapTuru.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:54:18.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Kitap.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\Varliklar\\Kitap.cs",
+              "RelativeDocumentMoniker": "Varliklar\\Kitap.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\Varliklar\\Kitap.cs",
+              "RelativeToolTip": "Varliklar\\Kitap.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:54:11.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Anasayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\Kutuphane\\Formlar\\Anasayfa.cs",
+              "RelativeDocumentMoniker": "Kutuphane\\Formlar\\Anasayfa.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\Kutuphane\\Formlar\\Anasayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kutuphane\\Formlar\\Anasayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:51:44.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KitapIslemleri.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\Kutuphane\\Formlar\\KitapIslemleri.cs",
+              "RelativeDocumentMoniker": "Kutuphane\\Formlar\\KitapIslemleri.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\Kutuphane\\Formlar\\KitapIslemleri.cs",
+              "RelativeToolTip": "Kutuphane\\Formlar\\KitapIslemleri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:32:45.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KitapTuruSayfasi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\Kutuphane\\Formlar\\KitapTuruSayfasi.cs",
+              "RelativeDocumentMoniker": "Kutuphane\\Formlar\\KitapTuruSayfasi.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\Kutuphane\\Formlar\\KitapTuruSayfasi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kutuphane\\Formlar\\KitapTuruSayfasi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:02:43.708Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "YazarSayfas\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\Kutuphane\\Formlar\\YazarSayfas\u0131.cs",
+              "RelativeDocumentMoniker": "Kutuphane\\Formlar\\YazarSayfas\u0131.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\Kutuphane\\Formlar\\YazarSayfas\u0131.cs",
+              "RelativeToolTip": "Kutuphane\\Formlar\\YazarSayfas\u0131.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAA0wB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T19:54:09.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "YazarSayfas\u0131.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\Kutuphane\\Formlar\\YazarSayfas\u0131.cs",
+              "RelativeDocumentMoniker": "Kutuphane\\Formlar\\YazarSayfas\u0131.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\Kutuphane\\Formlar\\YazarSayfas\u0131.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kutuphane\\Formlar\\YazarSayfas\u0131.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T19:54:07.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KitapIslemleri.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\Kutuphane\\Formlar\\KitapIslemleri.cs",
+              "RelativeDocumentMoniker": "Kutuphane\\Formlar\\KitapIslemleri.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\Kutuphane\\Formlar\\KitapIslemleri.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kutuphane\\Formlar\\KitapIslemleri.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T19:54:03.24Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KitapTuruSayfasi.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\Kutuphane\\Formlar\\KitapTuruSayfasi.cs",
+              "RelativeDocumentMoniker": "Kutuphane\\Formlar\\KitapTuruSayfasi.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\Kutuphane\\Formlar\\KitapTuruSayfasi.cs",
+              "RelativeToolTip": "Kutuphane\\Formlar\\KitapTuruSayfasi.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:23:03.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KitapTuruIslemleri.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\Islemler\\KitapTuruIslemleri.cs",
+              "RelativeDocumentMoniker": "Islemler\\KitapTuruIslemleri.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\Buse \u00C7il Proje 12\\Kutuphane\\Islemler\\KitapTuruIslemleri.cs",
+              "RelativeToolTip": "Islemler\\KitapTuruIslemleri.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:11:07.791Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 57,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
